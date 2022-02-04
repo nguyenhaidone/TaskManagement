@@ -1,3 +1,24 @@
+# Tasks Management Application
+
+This app was created for busy persons, who have many many tasks to do. It will help you plan your tasks, check the progress of tasks, control your times,...
+You can use this app for planning to-do lists, managing tasks in your projects,... and so many features will be waiting for you. Enjoy 😍😍😍
+
+## Prerequisites to run the project in your development environment
+
+* **nodejs >= v14.18.0**
+* **npm >= 6.14.7**
+* **yarn >= v1.19.1**
+
+Clone project and run (step by step):
+
+```
+$ git clone https://github.com/nguyenhaidone/TaskManagement/
+$ cd frontend
+$ yarn install
+$ yarn start
+```
+
+More info about reactjs below: 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
